@@ -137,13 +137,14 @@
       "bundle_id": "com.cocoawhisk.drinks.app",
       "weight": 1
     },
-    {
-      "id": "ra_interstitial_text_1",
-      "format": "text",
+        {
+      "id": "ra_interstitial_3",
+      "format": "image",
       "placements": ["interstitial", "rewarded"],
+      "image_url": "https://uzuduqoyi607-blip.github.io/book/res/Interstitial_3.png",
       "icon_url": "https://uzuduqoyi607-blip.github.io/book/res/icon.png",
       "title": "Official Ra Gаme",
-      "body": "Ancient treasures and Egyptian adventures are waiting for you!",
+      "body": "Begin your Egyptian journey and uncover the secrets of the ancient world!",
       "cta_text": "Install",
       "bundle_id": "com.cocoawhisk.drinks.app",
       "weight": 1
