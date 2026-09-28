@@ -102,30 +102,6 @@
       "weight": 1
     },
     {
-      "id": "olympia_interstitial_2",
-      "format": "image",
-      "placements": ["interstitial", "rewarded"],
-      "image_url": "https://uzuduqoyi607-blip.github.io/gates-olympus/house-ads/twmedia/Interstitial_2.png",
-      "icon_url": "https://uzuduqoyi607-blip.github.io/gates-olympus/house-ads/twmedia/icon.png",
-      "title": "Official Olympіa Online",
-      "body": "Discover divine bonuses and legendary surprises!",
-      "cta_text": "Install",
-      "bundle_id": "com.graphiteworks.chalkfall",
-      "weight": 1
-    },
-    {
-      "id": "olympia_banner_1",
-      "format": "image",
-      "placements": ["banner"],
-      "image_url": "https://uzuduqoyi607-blip.github.io/gates-olympus/house-ads/twmedia/BannerAd_1.png",
-      "icon_url": "https://uzuduqoyi607-blip.github.io/gates-olympus/house-ads/twmedia/icon.png",
-      "title": "Official Olympіa Online",
-      "body": "Discover the power of Olympus!",
-      "cta_text": "Install",
-      "bundle_id": "com.graphiteworks.chalkfall",
-      "weight": 1
-    },
-    {
       "id": "ra_banner_2",
       "format": "image",
       "placements": ["banner"],
